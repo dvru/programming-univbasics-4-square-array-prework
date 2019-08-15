@@ -3,5 +3,5 @@ def square_array(array)
   newArray = []
   while counter < array.length do 
    newArray << array[counter]**2
-   counter+-
+   counter += 
 end
